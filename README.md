@@ -1,6 +1,6 @@
 - 👋 Hi! I’m @leonardoamartinho
 - 👀 I’m interested in working as a Full Stack Developer
-- 🌱 I’m currently learning modular programming in C & web development in Javascript
+- 🌱 I’m currently learning modular programming in C & web development with Javascript
 - 📫 You can reach me through my email: leonardomartinho15@gmail.com
 
 <!---
