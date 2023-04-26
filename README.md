@@ -1,6 +1,6 @@
 - 👋 Hi! I’m @leonardoamartinho
-- 👀 I’m interested in learning about Full-Stack web development
-- 🌱 I’m currently learning Modular Programming in C & Front-End Development with HTML,CSS & Javascript
+- 👀 I’m interested in learning about Full-Stack Development
+- 🌱 I’m currently learning Python Frameworks such as Pandas, Ruby on Rails and Django 
 - 📫 You can reach me through my email: leonardomartinho15@gmail.com
 
 <!---
