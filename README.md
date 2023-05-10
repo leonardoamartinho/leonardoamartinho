@@ -1,6 +1,6 @@
 - 👋 Hi! I’m @leonardoamartinho
 - 👀 I’m interested in learning about Full-Stack Development
-- 🌱 I’m currently learning Python Frameworks such as Pandas, Ruby on Rails and Django 
+- 🌱 I’m currently learning Frameworks such as Pandas, Django and Ruby on Rails
 - 📫 You can reach me through my email: leonardomartinho15@gmail.com
 
 <!---
